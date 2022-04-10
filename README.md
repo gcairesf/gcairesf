@@ -2,8 +2,8 @@
 ##
 <div align="center">
   <a href="https://github.com/gcairesf">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gcairesf&show_icons=true&hide=stars,prs,contribs&theme=dracula&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcairesf&layout=compact&theme=dracula"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=gcairesf&show_icons=true&hide=stars,prs,contribs&theme=dracula&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcairesf&layout=compact&theme=dracula"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
